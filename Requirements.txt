@@ -1,0 +1,9 @@
+Libraries Required for this Project
+numpy
+pandas
+seaborn
+matplotlib
+pyplot
+
+**NOTE: You can use geopandas if you want to.
+geopandas is a powerful Python library used to work with geospatial data. It combines the functionality of pandas and shapely to make it easy to manipulate and visualize geographic information.
